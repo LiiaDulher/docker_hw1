@@ -9,4 +9,4 @@ $ ./build.sh
 $ docker run introducer
 ````
 #### Example
-![plot](.succesfull_usage.png)
+![usage](./succesfull_usage.png)
