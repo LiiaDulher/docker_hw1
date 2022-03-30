@@ -8,3 +8,5 @@ $ sudo chmod +x build.sh
 $ ./build.sh
 $ docker run introducer
 ````
+#### Example
+![plot](.succesfull_usage.png)
