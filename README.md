@@ -5,6 +5,6 @@
 ### Usage
 ````
 $ sudo chmod +x build.sh
-$ build.sh
+$ ./build.sh
 $ docker run introducer
 ````
